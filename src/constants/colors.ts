@@ -1,0 +1,12 @@
+export const APP_COLORS = {
+  WHITE: '#fff',
+  OFF_RED: '#ED2839',
+  PRIMARY: '#606676',
+  TEXT_DARK: '#404040',
+  DARK_GRAY: '#848482',
+  LIGHT_GRAY: '#ecf0f1',
+  BACKGROUND: '#F4F4F4',
+  PRIMARY_TWO: '#708871',
+  PRIMARY_FOUR: '#FEF3E2',
+  PRIMARY_THREE: '#BEC6A0',
+};
