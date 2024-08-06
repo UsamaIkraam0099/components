@@ -3,6 +3,7 @@ import React from 'react';
 // others
 import {
   MainView,
+  BottomSheet,
   FloatingLabelInputField,
   AnimatedButtonWithLoading,
 } from 'views';
@@ -20,6 +21,7 @@ function StackNavigator() {
   return (
     <Stack.Navigator screenOptions={screenOptions} initialRouteName="MainView">
       <Stack.Screen name="MainView" component={MainView} />
+      <Stack.Screen name="BottomSheet" component={BottomSheet} />
       <Stack.Screen
         name="AnimatedButtonWithLoading"
         component={AnimatedButtonWithLoading}

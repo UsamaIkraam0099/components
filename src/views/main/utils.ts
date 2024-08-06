@@ -9,4 +9,9 @@ export const DATA = [
     route: 'FloatingLabelInputField',
     description: '',
   },
+  {
+    title: 'Bottom Sheet',
+    route: 'BottomSheet',
+    description: '',
+  },
 ];
