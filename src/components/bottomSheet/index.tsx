@@ -80,7 +80,7 @@ const index = forwardRef<BottomSheetRefProps, BottomSheetProps>(
       const borderRadius = interpolate(
         translateY.value,
         [MAX_TRANSLATE_Y + 50, MAX_TRANSLATE_Y],
-        [25, 16],
+        [25, 8],
         Extrapolation.CLAMP,
       );
 

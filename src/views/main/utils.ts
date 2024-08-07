@@ -14,4 +14,9 @@ export const DATA = [
     route: 'BottomSheet',
     description: '',
   },
+  {
+    title: 'Custom Tab',
+    route: 'CustomTab',
+    description: '',
+  },
 ];
