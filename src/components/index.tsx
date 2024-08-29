@@ -1,4 +1,5 @@
 import HomeCard from './homeCard';
+import Accordian from './accordian';
 import BottomSheet from './bottomSheet';
 
-export {HomeCard, BottomSheet};
+export {HomeCard, Accordian, BottomSheet};

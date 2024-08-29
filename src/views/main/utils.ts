@@ -19,4 +19,9 @@ export const DATA = [
     route: 'CustomTab',
     description: '',
   },
+  {
+    title: 'Accordian',
+    route: 'Accordian',
+    description: '',
+  },
 ];

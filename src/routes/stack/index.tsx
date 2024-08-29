@@ -3,6 +3,7 @@ import React from 'react';
 // others
 import {
   MainView,
+  Accordian,
   CustomTab,
   BottomSheet,
   FloatingLabelInputField,
@@ -22,6 +23,7 @@ function StackNavigator() {
   return (
     <Stack.Navigator screenOptions={screenOptions} initialRouteName="MainView">
       <Stack.Screen name="MainView" component={MainView} />
+      <Stack.Screen name="Accordian" component={Accordian} />
       <Stack.Screen name="CustomTab" component={CustomTab} />
       <Stack.Screen name="BottomSheet" component={BottomSheet} />
       <Stack.Screen
