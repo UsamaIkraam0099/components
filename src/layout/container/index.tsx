@@ -33,7 +33,7 @@ function Container({left, right, children, headerLabel}: ContainerProps) {
       />
       <View style={styles['header-container']}>
         <TouchableOpacity
-          onPress={() => navigation.goBack()}
+          onPress={() => left && navigation.goBack()}
           style={[
             styles['corner-container'],
             left && styles['icon-background'],

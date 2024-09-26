@@ -24,4 +24,9 @@ export const DATA = [
     route: 'Accordian',
     description: '',
   },
+  {
+    title: 'Playing With Images',
+    route: 'PlayingImages',
+    description: '',
+  },
 ];

@@ -6,6 +6,8 @@ import {
   Accordian,
   CustomTab,
   BottomSheet,
+  SharedElement,
+  PlayingImages,
   FloatingLabelInputField,
   AnimatedButtonWithLoading,
 } from 'views';
@@ -26,6 +28,8 @@ function StackNavigator() {
       <Stack.Screen name="Accordian" component={Accordian} />
       <Stack.Screen name="CustomTab" component={CustomTab} />
       <Stack.Screen name="BottomSheet" component={BottomSheet} />
+      <Stack.Screen name="SharedElement" component={SharedElement} />
+      <Stack.Screen name="PlayingImages" component={PlayingImages} />
       <Stack.Screen
         name="AnimatedButtonWithLoading"
         component={AnimatedButtonWithLoading}
