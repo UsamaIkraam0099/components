@@ -1,13 +1,20 @@
 {
     "home":"Home",
+    "music":"Music",
+    "zed_ask":"Zed Ask",
     "reading": "Reading",
     "wishlist":"Wishlist",
+    "category":"Category",
     "accordian":"Accordian",
     "completed": "Completed",
     "custome_tab":"Custome Tab",
+    "scale_image":"Scale Image",
     "bottom_sheet":"Bottom Sheet",
+    "open_spotify":"Open Spotify",
     "animated_button":"Animated Button",
+    "open_yt_music":"Open YouTube Music",
     "playing_with_images":"Playing With Images",
     "floating_input_field":"Floating InputField",
+    "category_error":"Please select music category first",
     "lorem_ipsum_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
 }

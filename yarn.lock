@@ -3990,9 +3990,11 @@ __metadata:
     react-native: 0.74.3
     react-native-device-info: ^11.1.0
     react-native-gesture-handler: ^2.17.1
+    react-native-launcher-kit: ^1.0.4
     react-native-reanimated: ^3.14.0
     react-native-safe-area-context: ^4.10.8
     react-native-screens: ^3.32.0
+    react-native-share: ^11.0.4
     react-native-svg: ^15.4.0
     react-test-renderer: 18.2.0
     typescript: 5.0.4
@@ -8275,6 +8277,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-native-launcher-kit@npm:^1.0.4":
+  version: 1.0.4
+  resolution: "react-native-launcher-kit@npm:1.0.4"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: 0e591be620200ca62081ea14110bc212676a75a6eb1b8d911effce3d988d1fe53d6a90e6d04abcbb109ad4aa8a93ba92193de038db5c8ca9b80dd87e4c9c4806
+  languageName: node
+  linkType: hard
+
 "react-native-reanimated@npm:^3.14.0":
   version: 3.14.0
   resolution: "react-native-reanimated@npm:3.14.0"
@@ -8315,6 +8327,13 @@ __metadata:
     react: "*"
     react-native: "*"
   checksum: afcb93e9cd48d5071278213bbc4ddc18112dbdbd16c11e3c7129368614396d8aae13fd70bb299f3c84f52a28e34af06ccdc514de1e97a99f4197069301dab136
+  languageName: node
+  linkType: hard
+
+"react-native-share@npm:^11.0.4":
+  version: 11.0.4
+  resolution: "react-native-share@npm:11.0.4"
+  checksum: ac8d7c54d813c7d6688bfb8075de9eb1aac430dc20b16eeb14f511a5cd651609f03390f35c332a63403ce6e66eb7f5e9d53da61f01d115d079b85340a6f39e2c
   languageName: node
   linkType: hard
 

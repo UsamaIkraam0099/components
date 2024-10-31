@@ -29,4 +29,9 @@ export const DATA = [
     route: 'PlayingImages',
     description: '',
   },
+  {
+    title: 'Scale Image',
+    route: 'ScaleImage',
+    description: '',
+  },
 ];

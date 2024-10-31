@@ -23,7 +23,7 @@ const index = (props: HomeCardProps) => {
         return (
           <Animated.View
             key={`${item.title}-${index}`}
-            sharedTransitionTag="sharedTag"
+            // sharedTransitionTag="sharedTag"
             onTouchEnd={() => navigation.navigate('SharedElement')}>
             <View style={styles['main-container']}>
               <Image
